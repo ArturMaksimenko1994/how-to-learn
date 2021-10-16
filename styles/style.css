@@ -89,7 +89,7 @@
 
 /* ------------DESCRIPTION------------ */
 
-.description_padding_top {
+.description {
   padding-top: 100px;
 }
 
@@ -131,7 +131,7 @@
 
 /* ------------DIGITS------------ */
 
-.digits_padding_top {
+.digits {
   padding-top: 100px;
 }
 
@@ -185,9 +185,6 @@
   background-color: #f2f2f2;
   position: relative;
   z-index: 1;
-}
-
-.feynman_margin_top {
   margin-top: 100px;
 }
 
@@ -235,11 +232,9 @@
   position: relative;
   background-color: #1f1f1f;
   z-index: 1;
-}
-
-.kaufman_padding {
   padding: 90px 0;
 }
+
 .section_title_theme_dark {
   color: white;
 }
@@ -271,9 +266,6 @@
 
 .footer {
   background-color: #1f1f1f;
-}
-
-.footer_padding {
   padding: 60px 0 40px 0;
 }
 
