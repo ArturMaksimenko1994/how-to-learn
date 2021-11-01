@@ -1,0 +1,9 @@
+.video__ifreme {
+  width: 515px;
+  height: 316px;
+  border: 0px solid transparent;
+}
+
+.video__ifreme:nth-child(2n) {
+  margin-left: 20px;
+}
